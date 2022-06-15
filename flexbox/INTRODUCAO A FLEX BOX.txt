@@ -1,0 +1,28 @@
+FLEXBOX -> É UM MODELO DE LAYOUT UNIDIMENSIONAL.
+
+FLEX CONTAINER E A TAG QUE ENVOLVE OS ITENS.
+
+FLEX ITEM:(PROPRIEDADES)
+FLEX-FROW
+FLEX-BASIS
+FLEX-SHRINK
+FLEX
+ORDER
+ALIGN-SELF
+
+FLEX CONTAINER: (PROPRIEDADES)
+DISPLAY
+FLEX-DIRECTION
+FLEX-WRAP
+FLEX-FLOW
+JUSTIFY-CONTENT
+ALIGN-ITEMS
+ALIGN-CONTENT	
+
+PROPRIEDADE DISPLAY FLEX: 
+
+flex direction (eixo principal do container)
+row a direção d texto
+row-reverse sentido oposto a direção d texto
+column ->
+column-reverse -> de baixo para cima

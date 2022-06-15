@@ -1,0 +1,31 @@
+Para criar um repositorio no GitHub, deve primeiramente:
+
+1. Dentro da conta clicar na foto na parte de cima do lado direito;
+
+2. Clicar em Your Repositories.
+
+   Nesse momento, ira abrir uma tela com todos os repositorios criados pelo usuário e clicar em "NEW". Irá abrir uma aba para colocar o nome da pasta e informações sobre a mesma. O usuário deverá clicar em criar um arquivo README.txt para ter documentação sobre o repositorio.
+
+   Pode-se modificar o arquivo contando com a tecnologia Markdown.
+
+3. Abrir o Git
+
+   1. Localizar dentro do repositorio criado na opção CODE, SSH e copiar  link da página;
+
+   2. no GITBash copiar o repositorio do GitHub com a opção:
+
+      $ git clone <diretorio copiado do GitHub>
+
+   3. Ao efetuar o comando $ git status a nova pasta ira aparecer porem em vermelho o git ainda não reconheceu a mesma.
+
+   4. Neste momento irá efetuar o comando $ git add . para adicionar o repositorio
+
+   5. O comando $ git commit -m "escrever um commit" pode-se escrever um commit para explicar o que o repositorio ira guardar.
+
+   6. escrever o comando $ git push origin main para enviar todos os arquivos e commit para  que o Git reconheca.
+
+   Pronto agora é só colocar diariamente a evolução dos estudos para que todos veja, que programador está se tornando.
+
+   ​
+
+   ​
